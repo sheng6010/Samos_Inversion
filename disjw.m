@@ -1,7 +1,7 @@
 function  [JJ,WW,Ang21]=disjw(Jd,Wd,Dis,Angle)       
 % [JJ,WW,Ang21]=disjw(Jd,Wd,Dis,Angle)
 % 此函?已知???距Dis(以米??位)、与正北?角Angle（以°??位）和一?的??度（Jd，Wd），
-% ?算另一?的??度（JJ，WW）
+% ?算另一?的??度（JJ，WW）123
  
 e=2.718282;
 re=6371000;      %
